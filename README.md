@@ -23,11 +23,13 @@ Before hyperparameter tuning, the logistic regression model performed moderately
 **Scores before Hyperparameter Tuning:** 
 
 Training Data Score: 0.8456990272744612
+
 Testing Data Score: 0.8443935926773455
 
 **Scores after Hyperparameter Tuning:**
 
 Training Data Score: 0.8842265878313943
+
 Testing Data Score: 0.8958810068649885
 
 ### Random Forest Model
@@ -37,11 +39,13 @@ Before hyperparameter tuning, the random forest model actually performed much be
 **Scores before Hyperparameter Tuning:**
 
 Training Data Score: 0.9952317375548351
+
 Testing Data Score: 0.8867276887871853
 
 **Scores after Hyperparameter Tuning:**
 
 Training Data Score: 0.9998092695021934
+
 Testing Data Score: 0.9038901601830663
 
 ### Neural Network Models
@@ -51,11 +55,13 @@ The neural network model performed the best out of the gate. Before adding extra
 **Normal Neural Network Scores:**
 
 Accuracy: 0.8971962332725525
+
 Loss: 0.24563201407587712
 
 **Deep Neural Network Scores:**
 
 Accuracy: 0.9166507720947266
+
 Loss: 0.19392021073143195
 
 ## Conclusions
